@@ -55,7 +55,7 @@ You can customize these hooks by modifying the `husky` configuration in `package
    run:
 
    ```bash
-   pnpm build
+   npm run build
    ```
 
    This will compile the project into the `dist` directory.
